@@ -1,7 +1,8 @@
 # Lab Report 1
-Vedika Harnathka
+*Vedika Harnathka*
 
-This is a tutorial to show you how to successfully connect to and run commands on a remote computer in UCSD's CSE basement.
+
+**This is a tutorial to show you how to successfully connect to and run commands on a remote computer in UCSD's CSE basement.**
 
 ## Step 1: Logging into your CSE15L Account
 Click [here](https://sdacs.ucsd.edu/~icc/index.php) for your course-specific CSE 15L account.
@@ -10,9 +11,7 @@ Log in with your username and your student ID (it should start with either an A 
 
 ![Picture of page once logged in](https://github.com/vharnathka/cse15l-lab-reports/blob/main/15L%20SS1.png)
 
-Click on the CSE 15L account name. it should be in a grey box.
-
-There should be a link to change your password.
+Click on the CSE 15L account name. it should be in a grey box. Click on the change password link.
 
 ### Changing your password
 Enter the password you use for your UCSD account, and follow the requirements for your new password.
@@ -21,7 +20,7 @@ The next part is a little complicated:
 
 ![Picture of password change page](https://github.com/vharnathka/cse15l-lab-reports/blob/main/CSE15L%20SS2.png)
 
-Make sure to click *No* for change MyTritonLink password and *Yes* for change course-specific account password. Now **don't** click on check password. Instead, after you have selected Yes for change course-specific account password, hit enter on your keyboard. 
+Make sure to click ***No*** for change MyTritonLink password and ***Yes*** for change course-specific account password. Now **don't** click on check password. Instead, after you have selected Yes for change course-specific account password, hit enter on your keyboard. 
 
 Once you have successfully reset your password, wait for at least 15 minutes before doing step 3.
 
@@ -56,3 +55,16 @@ You should now get a message that looks like this
 This means that you have successfully connected your terminal to a computer in the CSE building basement.
 
 ## Step 4: Running Commands
+Now you can run some of the commands that you learnt in class, like `cd`, `ls`, `cat`, `pwd`, etc.
+
+Try running `ls` to see what files are listed in the directory you are in. 
+You could then try `cd filename.filetype` for one of the files you see listed.
+
+Running a command like `ls -lat` or `ls -a` could show you various parameters of the listed files.
+![image of ls -lat](https://github.com/vharnathka/cse15l-lab-reports/blob/main/15L%20SS5.png)
+
+Lastly you could try `ls /home/linux/ieng6/cs15lwi23/cs15lwi23abc` where the account name could be someone else's in your cse 15L class.
+
+
+**You have now succeeded in remotely connecting to and running commands on a different computer.
+Congratulations!**
