@@ -15,14 +15,19 @@ Click on the CSE 15L account name. it should be in a grey box.
 
 There should be a link to change your password.
 
-### Changing your password
-Enter the password you use for your UCSD account, and follow the requirements for your new password.
+<span style="color:grey">
+ ### Changing your password
+ Enter the password you use for your UCSD account, and follow the requirements for your new password.
 
 The next part is a little complicated:
 
-[SCREENSHOT]
+![Picture of password change page](https://github.com/vharnathka/cse15l-lab-reports/blob/main/CSE15L%20SS2.png)
+Make sure to click *No* for change MyTritonLink password and *Yes* for change course-specific account password. Now **don't** click on check password. Instead, after you have selected Yes for change course-specific account password, hit enter on your keyboard. 
+
+The next page should start to load, and if your password is complex enough, it should reset.
 
 Once you have successfully reset your password, wait for at least 15 minutes before doing step 3.
+</span>
 
 ## Installing VS Code
 In the meantime, let’s install Visual Studio Code.
