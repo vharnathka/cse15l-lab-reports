@@ -4,11 +4,12 @@ Vedika Harnathka
 This is a tutorial to show you how to successfully connect to and run commands on a remote computer in UCSD's CSE basement.
 
 ## Step 1: Logging into your CSE15L Account
-Click this link for your course-specific CSE 15L account.
+Click this [link](https://sdacs.ucsd.edu/~icc/index.php) for your course-specific CSE 15L account.
 
 Log in with your username and your student ID (it should start with either an A or a U)
 
 [screenshot]
+![Picture of page once logged in](https://github.com/vharnathka/cse15l-lab-reports/blob/main/15L%20SS1.png)
 
 Click on the CSE 15L account name. it should be in a grey box.
 
