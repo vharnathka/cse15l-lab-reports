@@ -18,7 +18,7 @@ Enter the password you use for your UCSD account, and follow the requirements fo
 
 The next part is a little complicated:
 
-![Picture of password change page](https://github.com/vharnathka/cse15l-lab-reports/blob/main/CSE15L%20SS2.png)
+![Picture of password change page](SS2.png)
 
 Make sure to click ***No*** for change MyTritonLink password and ***Yes*** for change course-specific account password. Now **don't** click on check password. Instead, after you have selected Yes for change course-specific account password, hit enter on your keyboard. 
 
