@@ -8,7 +8,7 @@ Click [here](https://sdacs.ucsd.edu/~icc/index.php) for your course-specific CSE
 Log in with your username and your student ID (it should start with either an A or a U). 
 Click on the CSE 15L account name. it should be in a grey box. 
 
-![Picture of page once logged in](https://github.com/vharnathka/cse15l-lab-reports/blob/48bb688498170605197dab4ddffaf22c15430513/SS1.png)
+![Picture of page once logged in](SS1.png)
 
 Click on the change password link.
 
