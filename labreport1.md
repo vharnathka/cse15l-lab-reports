@@ -33,7 +33,7 @@ Go to the Visual Studio Code website [here](https://code.visualstudio.com/), and
 
 Here is what it should look like once you’ve successfully installed and opened the app:
 
-![Picture of VSCode open](https://github.com/vharnathka/cse15l-lab-reports/blob/main/CSE15L%20SS3.png)
+![Picture of VSCode open](SS3.png)
 
 ## Step 3: Remotely Connecting
 If it has been 15 minutes since you changed your password, you can connect to a remote computer. **Note: These instructions are specific to macOS users.**
@@ -52,7 +52,7 @@ Then enter in your password - note that you won’t be able to see the text for 
 
 You should now get a message that looks like this
 
-![Image of login page](https://github.com/vharnathka/cse15l-lab-reports/blob/main/15L%20SS4.png)
+![Image of login page](SS4.png)
 
 This means that you have successfully connected your terminal to a computer in the CSE building basement.
 
@@ -63,7 +63,7 @@ Try running `ls` to see what files are listed in the directory you are in.
 You could then try `cd filename.filetype` for one of the files you see listed.
 
 Running a command like `ls -lat` or `ls -a` could show you various parameters of the listed files.
-![image of ls -lat](https://github.com/vharnathka/cse15l-lab-reports/blob/main/15L%20SS5.png)
+![image of ls -lat](SS5.png)
 
 Lastly you could try `ls /home/linux/ieng6/cs15lwi23/cs15lwi23abc` where the account name could be someone else's in your cse 15L class.
 
