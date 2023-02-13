@@ -98,6 +98,7 @@ Before:
     return sum / (arr.length-1);
   }
 ```
+In the above code, it is clear that the bug lies with the number `sum` is being divided by. Even if the multiple lowest numbers are ignored by the `for` loop, the total sum is still divided by only 1 number less than the total amount of numbers in the array.
 
 After:
 ```
@@ -118,6 +119,7 @@ After:
     return sum / (index);
   }
 ```
+This solution creates a new `int` variable called index. Now whenever a number that is **not** the lowest number is added to the sum, the index is incremented by 1. So the final sum is divided by the corrext number to result in the correct `averageWithoutLowest` in the case of multiple lowest numbers.
 
 ## Part 3: What I Have Learnt
 I learnt how to set up a web server and how to write basic code so that changes to the URL are reflected on the actual page. I learnt about the parts of an URL, i.e the path and the query, and how use my knowledge in Java to  potentially create more complex servers or websites.
